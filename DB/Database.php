@@ -5,7 +5,7 @@ class Database{
     public string $local="localhost";
     public string $db="vendas";
     public string $user = "root";
-    public string $password = "anapat99607";
+    public string $password = "";
     public $table;
 
 
